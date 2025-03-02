@@ -1,2 +1,2 @@
 # Cloud-Tasks
-make you own env and connect it to your mongodb 
+make your own env and connect it to your mongodb 
